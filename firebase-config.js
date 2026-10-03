@@ -1,0 +1,9 @@
+self.firebaseConfig={
+  apiKey:"PASTE_API_KEY",
+  authDomain:"PASTE.firebaseapp.com",
+  projectId:"PASTE",
+  storageBucket:"",
+  messagingSenderId:"PASTE",
+  appId:"PASTE",
+  vapidKey:""
+};
